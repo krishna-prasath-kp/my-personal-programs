@@ -1,0 +1,16 @@
+// Write a python program to Add two complex  numbers. Get the inputs using eval().
+
+For example:
+
+Input	Result
+2+3j
+1+5j
+A is (2+3j)
+B is (1+5j)
+Sum is (3+8j) //
+
+A=eval(input())
+B=eval(input())
+print("A is",A)
+print("B is",B)
+print("Sum is",A+B)
